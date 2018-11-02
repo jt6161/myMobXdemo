@@ -1,2 +1,0 @@
-# myMobXdemo
-Created with CodeSandbox
